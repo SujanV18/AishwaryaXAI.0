@@ -75,7 +75,7 @@ A custom, decoupled UI implementation enforcing a premium, dark-mode-first finte
     ```bash
     npm run dev
     ```
-5.  Access the local build at http://localhost:5173.
+   
 
 ---
 
